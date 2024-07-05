@@ -17,7 +17,7 @@ A script that automates my GitHub project creation routine using PyGithub.
 ### Clone 
 Clone this repo to your local machine using 
 ```
-git clone https://github.com/luka1199/project-automation
+git clone https://github.com/Abhayaj247/Project-creation-automation.git
 ```
 
 ### Dependencies
